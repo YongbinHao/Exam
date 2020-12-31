@@ -9,7 +9,7 @@
 
 3. 该项目基于maven进行构建，请使用IDE基于maven项目进行导入
 
-4. 该项目运行依赖于Junit框架，请依据pom.xml文件更新相关依赖
+4. 该项目的测试代码依赖于Junit框架，请依据pom.xml文件更新相关依赖
 
 5. 该项目运行方法为：
    1. 在IDE中，运行类Exam/src/main/java/cn/hyb/Main类中的main方法，即可在控制台中展示打开宝箱结果。
